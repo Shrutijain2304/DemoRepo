@@ -2,9 +2,14 @@ package com.qa.pages;
 
 public class HomePage {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public void home()
+	{
+		System.out.println("inside home");
 
+	}
+	public void loginSet()
+	{
+		
 	}
 
 }
